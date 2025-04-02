@@ -34,9 +34,8 @@ Os principais resultados obtidos incluem:
 ## Pré-visualização do Dashboard
 ![Pré-visualização do Dashboard](Dashboard-RH-1.png)
 
-## Como Visualizar o Projeto  
-Faça o download do arquivo [clique aqui](https://raw.githubusercontent.com/RafaelDSena/RafaelDSena-Portfolio/main/An%C3%A1lise%20de%20Dados%20de%20RH.pbix).
-
+Como Visualizar o Projeto  
+Faça o download do arquivo [clique aqui](https://raw.githubusercontent.com/RafaDSena/RafaelDSena-Portfolio/main/An%C3%A1lise%20de%20Dados%20de%20RH.pbix).  
 Abra o arquivo no Power BI Desktop para explorar as análises e visualizações.
 
 Este projeto demonstra a aplicação prática de análise de dados no contexto de Recursos Humanos, com foco em métricas chave e apresentação de insights claros e objetivos.
