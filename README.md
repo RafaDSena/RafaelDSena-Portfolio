@@ -32,7 +32,7 @@ Os principais resultados obtidos incluem:
 - A análise de disponibilidade para horas extras e critérios para promoções.
 
 ## Pré-visualização do Dashboard
-![Pré-visualização do Dashboard](Assets/dashboard-preview.png)
+![Pré-visualização do Dashboard](Dashboard-RH-1.png)
 
 ## Como Visualizar o Projeto
 1. Faça o download do arquivo `Dashboard.pbix`.
